@@ -1,3 +1,20 @@
-.gameBorder {
+.gameStage {
 	border: 2px solid red;
 }
+/*
+.scoreStage {
+	border: 2px solid green;
+	width: 800px;
+	height: 100px;
+	background-color : green;
+	display:inline-block;
+}
+
+.stage {
+	margin: 0 auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 1000px;
+}
+*/
+
